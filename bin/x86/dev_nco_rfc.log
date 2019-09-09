@@ -1,0 +1,1146 @@
+
+**** Log file opened by process 6152 at 2019-09-08 16:21:04 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-08 16:21:04.186 [Thread 8]
+SAP.Middleware.Connector.RfcInvalidStateException: Cannot get destination rfc -- no destination configuration registered
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+>> Error entry 2019-09-08 16:28:58.159 [Thread 8]
+SAP.Middleware.Connector.RfcInvalidStateException: Cannot get destination rfc -- no destination configuration registered
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+
+**** Log file opened by process 20600 at 2019-09-08 16:29:26 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.29, IP_v6 address: fe80::3cc4:edb3:5429:4ae
+
+Default trace level: None
+
+>> Error entry 2019-09-08 16:29:26.521 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+>> Error entry 2019-09-08 16:29:26.548 [Thread 8]
+SAP.Middleware.Connector.RfcInvalidStateException: Cannot get destination rfc -- no destination configuration registered
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+
+**** Log file opened by process 21356 at 2019-09-08 16:31:33 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.29, IP_v6 address: fe80::3cc4:edb3:5429:4ae
+
+Default trace level: None
+
+>> Error entry 2019-09-08 16:31:33.615 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+>> Error entry 2019-09-08 16:31:33.641 [Thread 8]
+SAP.Middleware.Connector.RfcInvalidStateException: Cannot get destination rfc -- no destination configuration registered
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+
+**** Log file opened by process 13568 at 2019-09-09 09:51:50 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 09:51:50.386 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+>> Error entry 2019-09-09 09:51:50.420 [Thread 9]
+SAP.Middleware.Connector.RfcInvalidStateException: Cannot get destination rfc -- no destination configuration registered
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+
+**** Log file opened by process 12984 at 2019-09-09 10:10:09 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 10:10:09.247 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+>> Error entry 2019-09-09 10:10:09.282 [Thread 10]
+SAP.Middleware.Connector.RfcInvalidStateException: Cannot get destination rfc -- no destination configuration registered
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+
+**** Log file opened by process 20288 at 2019-09-09 11:05:58 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 11:05:58.690 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 20980 at 2019-09-09 11:06:16 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 11:06:16.317 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 10772 at 2019-09-09 13:46:41 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 13:46:41.050 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+>> Error entry 2019-09-09 13:46:41.676 [Thread 10]
+[NAME=JMDEV USER=ABY_RACHMAD PASSWD=******** CLIENT=300 LANG=EN ASHOST=erpappdev SYSNR=03]
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function ZTABLE_FINGER not available: FU_NOT_FOUND: Function module ZTABLE_FINGER does not exist
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+>> Error entry 2019-09-09 13:46:41.712 [Thread 10]
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function ZTABLE_FINGER not available: FU_NOT_FOUND: Function module ZTABLE_FINGER does not exist
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   at SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+   at SAP.Middleware.Connector.RfcRepository.CreateFunction(String name)
+
+**** Log file opened by process 14592 at 2019-09-09 13:48:10 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 13:48:10.639 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 9140 at 2019-09-09 13:50:00 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 13:50:00.053 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 17948 at 2019-09-09 13:52:37 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 13:52:37.895 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 14484 at 2019-09-09 14:05:09 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 14:05:09.272 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 10588 at 2019-09-09 14:33:57 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 14:33:57.890 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 15628 at 2019-09-09 14:46:04 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 14:46:04.312 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 5840 at 2019-09-09 14:49:06 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 14:49:06.329 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 19492 at 2019-09-09 16:27:46 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 16:27:46.120 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 13900 at 2019-09-09 17:15:37 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 169.254.134.151, IP_v6 address: fe80::988f:afa9:6395:8697
+
+Default trace level: None
+
+>> Error entry 2019-09-09 17:15:37.097 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 19224 at 2019-09-09 19:42:57 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 19:42:57.736 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 18476 at 2019-09-09 19:51:19 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 19:51:19.379 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 10372 at 2019-09-09 20:08:13 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:08:13.126 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 10112 at 2019-09-09 20:08:52 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:08:52.284 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 11056 at 2019-09-09 20:09:27 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:09:27.732 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 17268 at 2019-09-09 20:10:10 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:10:10.062 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 11336 at 2019-09-09 20:11:11 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:11:11.823 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 11596 at 2019-09-09 20:12:03 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:12:03.502 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 19492 at 2019-09-09 20:15:42 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:15:42.200 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+>> Error entry 2019-09-09 20:18:30.685 [Thread 9]
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at SAP.Middleware.Connector.RfcContainerMetadata`1.get_Item(Int32 index)
+>> Error entry 2019-09-09 20:18:30.718 [Thread 9]
+SAP.Middleware.Connector.RfcInvalidParameterException: Access of field's type metadata via index=1 (TABLE ZTBT_FINGER [STRUCTURE ZTST_FINGER]) failed ---> SAP.Middleware.Connector.RfcInvalidParameterException: Element metadata access using index=1 on metadata of STRUCTURE ZTST_FINGER failed ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at SAP.Middleware.Connector.RfcContainerMetadata`1.get_Item(Int32 index)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcContainerMetadata`1.get_Item(Int32 index)
+   at SAP.Middleware.Connector.RfcTable.TypeMetadataAt(Int32 index)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcTable.TypeMetadataAt(Int32 index)
+   at SAP.Middleware.Connector.RfcDataContainer`1.GetValue(Int32 index)
+
+**** Log file opened by process 16288 at 2019-09-09 20:18:44 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:18:44.813 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+>> Error entry 2019-09-09 20:19:18.790 [Thread 10]
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at SAP.Middleware.Connector.RfcContainerMetadata`1.get_Item(Int32 index)
+>> Error entry 2019-09-09 20:19:18.826 [Thread 10]
+SAP.Middleware.Connector.RfcInvalidParameterException: Access of field's type metadata via index=1 (TABLE ZTBT_FINGER [STRUCTURE ZTST_FINGER]) failed ---> SAP.Middleware.Connector.RfcInvalidParameterException: Element metadata access using index=1 on metadata of STRUCTURE ZTST_FINGER failed ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at SAP.Middleware.Connector.RfcContainerMetadata`1.get_Item(Int32 index)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcContainerMetadata`1.get_Item(Int32 index)
+   at SAP.Middleware.Connector.RfcTable.TypeMetadataAt(Int32 index)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcTable.TypeMetadataAt(Int32 index)
+   at SAP.Middleware.Connector.RfcDataContainer`1.GetValue(Int32 index)
+>> Error entry 2019-09-09 20:20:38.112 [Thread 10]
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at SAP.Middleware.Connector.RfcContainerMetadata`1.get_Item(Int32 index)
+>> Error entry 2019-09-09 20:20:38.146 [Thread 10]
+SAP.Middleware.Connector.RfcInvalidParameterException: Access of field's type metadata via index=1 (TABLE ZTBT_FINGER [STRUCTURE ZTST_FINGER]) failed ---> SAP.Middleware.Connector.RfcInvalidParameterException: Element metadata access using index=1 on metadata of STRUCTURE ZTST_FINGER failed ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at SAP.Middleware.Connector.RfcContainerMetadata`1.get_Item(Int32 index)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcContainerMetadata`1.get_Item(Int32 index)
+   at SAP.Middleware.Connector.RfcTable.TypeMetadataAt(Int32 index)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcTable.TypeMetadataAt(Int32 index)
+   at SAP.Middleware.Connector.RfcDataContainer`1.GetValue(Int32 index)
+
+**** Log file opened by process 2440 at 2019-09-09 20:22:15 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:22:15.532 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 7484 at 2019-09-09 20:23:59 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:23:59.631 [Thread 11]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 19960 at 2019-09-09 20:25:21 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:25:21.856 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 18212 at 2019-09-09 20:29:33 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:29:33.495 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 17008 at 2019-09-09 20:31:10 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:31:10.621 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 2500 at 2019-09-09 20:35:51 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:35:51.412 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 19984 at 2019-09-09 20:36:12 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:36:12.695 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 20772 at 2019-09-09 20:37:34 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:37:34.437 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 5808 at 2019-09-09 20:39:27 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:39:27.865 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 2936 at 2019-09-09 20:39:58 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:39:58.485 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 8416 at 2019-09-09 20:50:49 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:50:49.057 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 10576 at 2019-09-09 20:52:33 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:52:33.910 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 17392 at 2019-09-09 20:53:17 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:53:17.160 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 17912 at 2019-09-09 20:58:51 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 20:58:51.594 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+>> Error entry 2019-09-09 20:59:42.155 [Thread 8]
+[NAME=JMDEV USER=ABY_RACHMAD PASSWD=******** CLIENT=300 LANG=EN ASHOST=erpappdev SYSNR=03]
+SAP.Middleware.Connector.RfcAbapRuntimeException: SQL error SQL code: -10692 occurred while accessing table ZTABLE_FINGER.
+   at SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+>> Error entry 2019-09-09 21:00:10.020 [Thread 8]
+[NAME=JMDEV USER=ABY_RACHMAD PASSWD=******** CLIENT=300 LANG=EN ASHOST=erpappdev SYSNR=03]
+SAP.Middleware.Connector.RfcAbapRuntimeException: SQL error SQL code: -10692 occurred while accessing table ZTABLE_FINGER.
+   at SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+
+**** Log file opened by process 16672 at 2019-09-09 21:00:26 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:00:27.014 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 9132 at 2019-09-09 21:15:42 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:15:42.298 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 12116 at 2019-09-09 21:17:02 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:17:02.754 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 14408 at 2019-09-09 21:19:25 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:19:25.362 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 19828 at 2019-09-09 21:21:45 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:21:45.860 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 12236 at 2019-09-09 21:25:19 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:25:19.738 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 18336 at 2019-09-09 21:27:25 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:27:25.172 [Thread 8]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 6124 at 2019-09-09 21:29:30 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:29:30.253 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 18308 at 2019-09-09 21:31:26 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:31:26.055 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 16172 at 2019-09-09 21:32:55 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:32:55.293 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+>> Error entry 2019-09-09 21:32:56.178 [Thread 10]
+[NAME=JMDEV USER=ABY_RACHMAD PASSWD=******** CLIENT=300 LANG=EN ASHOST=erpappdev SYSNR=03]
+SAP.Middleware.Connector.RfcAbapRuntimeException: SQL error SQL code: -10692 occurred while accessing table ZTABLE_FINGER.
+   at SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+
+**** Log file opened by process 13096 at 2019-09-09 21:33:54 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:33:54.610 [Thread 1]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 6304 at 2019-09-09 21:34:46 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\ZKFingerSDKWindowsZK10.vshost.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:34:46.888 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+>> Error entry 2019-09-09 21:34:47.736 [Thread 10]
+[NAME=JMDEV USER=ABY_RACHMAD PASSWD=******** CLIENT=300 LANG=EN ASHOST=erpappdev SYSNR=03]
+SAP.Middleware.Connector.RfcAbapRuntimeException: SQL error SQL code: -10692 occurred while accessing table ZTABLE_FINGER.
+   at SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+
+**** Log file opened by process 19208 at 2019-09-09 21:36:10 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: F:\MACAM-MACAM\SAPFingerprint\bin\x86\SAPFingerprint.exe
+Working directory: F:\MACAM-MACAM\SAPFingerprint\bin\x86
+Operating system: Windows 10 Home Single Language 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: LAPTOP-1GO98ACJ, IP address: 172.17.2.37, IP_v6 address: fe80::35bd:5a4c:6aa5:8d81
+
+Default trace level: None
+
+>> Error entry 2019-09-09 21:36:11.282 [Thread 1]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
