@@ -1144,3 +1144,496 @@ System.ArgumentException: The parameter 'sectionGroupName' is invalid.
 Parameter name: sectionGroupName
    at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
    at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 7432 at 2020-03-01 11:52:30 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86\SAPFingerprint.vshost.exe
+Working directory: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86
+Operating system: Windows 10 Enterprise 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: ABY-400591, IP address: 169.254.209.104, IP_v6 address: fe80::4886:7b13:ef93:d168
+
+Default trace level: None
+
+>> Error entry 2020-03-01 11:52:30.510 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 1352 at 2020-03-01 11:57:39 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86\SAPFingerprint.vshost.exe
+Working directory: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86
+Operating system: Windows 10 Enterprise 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: ABY-400591, IP address: 169.254.209.104, IP_v6 address: fe80::4886:7b13:ef93:d168
+
+Default trace level: None
+
+>> Error entry 2020-03-01 11:57:39.600 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 19232 at 2020-03-01 12:00:49 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86\SAPFingerprint.vshost.exe
+Working directory: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86
+Operating system: Windows 10 Enterprise 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: ABY-400591, IP address: 169.254.209.104, IP_v6 address: fe80::4886:7b13:ef93:d168
+
+Default trace level: None
+
+>> Error entry 2020-03-01 12:00:49.857 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 9912 at 2020-03-01 12:11:24 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86\SAPFingerprint.vshost.exe
+Working directory: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86
+Operating system: Windows 10 Enterprise 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: ABY-400591, IP address: 169.254.209.104, IP_v6 address: fe80::4886:7b13:ef93:d168
+
+Default trace level: None
+
+>> Error entry 2020-03-01 12:11:24.260 [Thread 10]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 5492 at 2020-03-01 12:15:23 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86\SAPFingerprint.vshost.exe
+Working directory: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86
+Operating system: Windows 10 Enterprise 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: ABY-400591, IP address: 169.254.209.104, IP_v6 address: fe80::4886:7b13:ef93:d168
+
+Default trace level: None
+
+>> Error entry 2020-03-01 12:15:23.181 [Thread 9]
+Could not initialize configuration:
+System.ArgumentException: The parameter 'sectionGroupName' is invalid.
+Parameter name: sectionGroupName
+   at System.Configuration.MgmtConfigurationRecord.GetSectionGroup(String configKey)
+   at SAP.Middleware.Connector.RfcConfigParameters.loadConfiguration()
+
+**** Log file opened by process 21320 at 2020-03-01 12:20:32 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86\SAPFingerprint.vshost.exe
+Working directory: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86
+Operating system: Windows 10 Enterprise 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: ABY-400591, IP address: 169.254.209.104, IP_v6 address: fe80::4886:7b13:ef93:d168
+
+Default trace level: None
+
+>> Error entry 2020-03-01 12:20:32.817 [Thread 10]
+Failure to create pool for destination BGADEV (ORIGINAL) [NAME=BGADEV USER= PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:18:27 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2020-03-01 12:20:32.837 [Thread 10]
+[NAME=BGADEV USER= PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:18:27 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.Ping()
+
+**** Log file opened by process 17196 at 2020-03-01 12:22:20 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86\SAPFingerprint.vshost.exe
+Working directory: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86
+Operating system: Windows 10 Enterprise 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: ABY-400591, IP address: 169.254.209.104, IP_v6 address: fe80::4886:7b13:ef93:d168
+
+Default trace level: None
+
+>> Error entry 2020-03-01 12:22:20.770 [Thread 10]
+Failure to create pool for destination BGADEV (ORIGINAL) [NAME=BGADEV USER=aby_abap PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter/H/ SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:15 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2020-03-01 12:22:20.793 [Thread 10]
+[NAME=BGADEV USER=aby_abap PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter/H/ SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:15 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+>> Error entry 2020-03-01 12:22:20.794 [Thread 10]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:15 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     3
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+>> Error entry 2020-03-01 12:22:20.940 [Thread 10]
+Failure to create pool for destination BGADEV (ORIGINAL) [NAME=BGADEV USER=aby_abap PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter/H/ SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:15 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     6
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2020-03-01 12:22:20.941 [Thread 10]
+[NAME=BGADEV USER=aby_abap PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter/H/ SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:15 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     6
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+>> Error entry 2020-03-01 12:22:49.389 [Thread 10]
+Failure to create pool for destination BGADEV (ORIGINAL) [NAME=BGADEV USER=aby_abap PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter/H/ SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:43 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     9
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2020-03-01 12:22:49.390 [Thread 10]
+[NAME=BGADEV USER=aby_abap PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter/H/ SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:43 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     9
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+>> Error entry 2020-03-01 12:22:53.851 [Thread 10]
+Failure to create pool for destination BGADEV (ORIGINAL) [NAME=BGADEV USER=aby_abap PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter/H/ SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:48 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     12
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2020-03-01 12:22:53.852 [Thread 10]
+[NAME=BGADEV USER=aby_abap PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter/H/ SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:48 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     12
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+>> Error entry 2020-03-01 12:22:53.853 [Thread 10]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:48 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     12
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues()
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+>> Error entry 2020-03-01 12:23:01.615 [Thread 10]
+Failure to create pool for destination BGADEV (ORIGINAL) [NAME=BGADEV USER=aby_abap PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter/H/ SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:56 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     15
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2020-03-01 12:23:01.617 [Thread 10]
+[NAME=BGADEV USER=aby_abap PASSWD=******** CLIENT=100 LANG=EN ASHOST=s4h1709 SYSNR=57 SAPROUTER=/H/cloud.abyor.com/W/abyrouter/H/ SYSID=S4H]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    SAP-Gateway on host abys4h1709.abyor.com / sapgw57
+ERROR       hostname 's4h1709' unknown
+TIME        Sun Mar  1 12:20:56 2020
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      /bas/753_REL/src/base/ni/nixxhl.cpp
+LINE        198
+DETAIL      NiHLGetNodeAddr: hostname cached as unknown
+COUNTER     15
+
+RETURN CODE: 19
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.Ping()
+
+**** Log file opened by process 19744 at 2020-03-01 12:26:37 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86\SAPFingerprint.vshost.exe
+Working directory: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86
+Operating system: Windows 10 Enterprise 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: ABY-400591, IP address: 10.69.70.3, IP_v6 address: fe80::ed6c:cb1:8ce1:8b60
+
+Default trace level: None
+
+>> Error entry 2020-03-01 12:26:37.883 [Thread 10]
+Failure to create pool for destination BGADEV (ORIGINAL) [NAME=BGADEV USER=ABAP_EXT3 PASSWD=******** CLIENT=100 LANG=EN ASHOST=192.168.7.22 SYSNR=10 SAPROUTER= SYSID=BGD]
+SAP.Middleware.Connector.RfcLogonException: Password logon no longer possible - too many failed attempts ---> SAP.Middleware.Connector.RfcAbapMessageException: Password logon no longer possible - too many failed attempts
+   at SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2020-03-01 12:26:37.897 [Thread 10]
+[NAME=BGADEV USER=ABAP_EXT3 PASSWD=******** CLIENT=100 LANG=EN ASHOST=192.168.7.22 SYSNR=10 SAPROUTER= SYSID=BGD]
+SAP.Middleware.Connector.RfcLogonException: Password logon no longer possible - too many failed attempts ---> SAP.Middleware.Connector.RfcAbapMessageException: Password logon no longer possible - too many failed attempts
+   at SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.Ping()
+
+**** Log file opened by process 24828 at 2020-03-01 17:29:53 (UTC+07:00 SE Asia Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.22.0 running on 32-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86\SAPFingerprint.vshost.exe
+Working directory: C:\Users\RachmadKurniawan\Source\Repos\rachmadkurniawan\C-\bin\x86
+Operating system: Windows 10 Enterprise 64-bit 
+Processor: 4x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1218
+Hostname: ABY-400591, IP address: 10.69.70.1, IP_v6 address: fe80::ed6c:cb1:8ce1:8b60
+
+Default trace level: None
+
+>> Error entry 2020-03-01 17:29:53.749 [Thread 9]
+Failure to create pool for destination BGADEV (ORIGINAL) [NAME=BGADEV USER= PASSWD=******** CLIENT=100 LANG=EN ASHOST=192.168.7.22 SYSNR=10 SAPROUTER= SYSID=BGD]
+SAP.Middleware.Connector.RfcLogonException: Incomplete logon data. ---> SAP.Middleware.Connector.RfcAbapRuntimeException: Incomplete logon data.
+   at SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2020-03-01 17:29:53.775 [Thread 9]
+[NAME=BGADEV USER= PASSWD=******** CLIENT=100 LANG=EN ASHOST=192.168.7.22 SYSNR=10 SAPROUTER= SYSID=BGD]
+SAP.Middleware.Connector.RfcLogonException: Incomplete logon data. ---> SAP.Middleware.Connector.RfcAbapRuntimeException: Incomplete logon data.
+   at SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.Ping()

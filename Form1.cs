@@ -13,6 +13,7 @@ using System.Data;
 
 namespace Demo
 {
+   
     public partial class Form1 : Form
     {
         IntPtr mDevHandle = IntPtr.Zero;
@@ -248,16 +249,17 @@ namespace Demo
                             else
                             {
 
-
                                 RfcConfigParameters parameters = new RfcConfigParameters();
-
-                                parameters[RfcConfigParameters.Name] = "JMDEV";
-                                parameters[RfcConfigParameters.User] = "ABY_RACHMAD";
-                                parameters[RfcConfigParameters.Password] = "rachmad211282";
-                                parameters[RfcConfigParameters.Client] = "300";
-                                parameters[RfcConfigParameters.Language] = "EN";
-                                parameters[RfcConfigParameters.AppServerHost] = "erpappdev";
-                                parameters[RfcConfigParameters.SystemNumber] = "03";
+                               
+                                parameters[RfcConfigParameters.Name] = SAPFingerprint.Properties.Settings.Default.Name;
+                                parameters[RfcConfigParameters.User] = txtUser.Text;
+                                parameters[RfcConfigParameters.Password] = txtPass.Text;
+                                parameters[RfcConfigParameters.Client] = SAPFingerprint.Properties.Settings.Default.Client;
+                                parameters[RfcConfigParameters.Language] = SAPFingerprint.Properties.Settings.Default.Language;
+                                parameters[RfcConfigParameters.AppServerHost] = SAPFingerprint.Properties.Settings.Default.AppServerHost;
+                                parameters[RfcConfigParameters.SystemNumber] = SAPFingerprint.Properties.Settings.Default.SystemNumber;
+                                parameters[RfcConfigParameters.SAPRouter] = SAPFingerprint.Properties.Settings.Default.SAPRouter;
+                                parameters[RfcConfigParameters.SystemID] = SAPFingerprint.Properties.Settings.Default.SystemID;
 
                                 RfcDestination SapRfcDestination = RfcDestinationManager.GetDestination(parameters);
                                 RfcSessionManager.BeginContext(SapRfcDestination);
@@ -268,8 +270,8 @@ namespace Demo
                                 try
                                 {
 
-                                    function = SapRfcDestination.Repository.CreateFunction("ZFM_TABLE_FINGER");
-                                    function.SetValue("MODE", "S");
+                                    function = SapRfcDestination.Repository.CreateFunction("ZFM_READ_WRITE_FINGERPRINT");
+                                    function.SetValue("IM_MODE", "V");
 
                                     IRfcTable gt_table = function.GetTable("EX_FINGERPRINT");
 
@@ -304,10 +306,10 @@ namespace Demo
 
                                     if (vald > 0)
                                     {
-                                        function = SapRfcDestination.Repository.CreateFunction("ZFM_TABLE_FINGER");
-                                        function.SetValue("MODE", "L");
-                                        function.SetValue("INDX", jj);
-                                        function.Invoke(SapRfcDestination);
+                                       // function = SapRfcDestination.Repository.CreateFunction("ZFM_READ_WRITE_FINGERPRINT");
+                                       // function.SetValue("MODE", "V");
+                                       // function.SetValue("INDX", jj);
+                                       // function.Invoke(SapRfcDestination);
                                     }
 
                                 }
@@ -380,17 +382,19 @@ namespace Demo
 
 
 
-        private static void Save_Database(string fingerprint)
+        private void Save_Database(string fingerprint)
         {
             RfcConfigParameters parameters = new RfcConfigParameters();
 
-            parameters[RfcConfigParameters.Name] = "JMDEV";
-            parameters[RfcConfigParameters.User] = "ABY_RACHMAD";
-            parameters[RfcConfigParameters.Password] = "rachmad211282";
-            parameters[RfcConfigParameters.Client] = "300";
-            parameters[RfcConfigParameters.Language] = "EN";
-            parameters[RfcConfigParameters.AppServerHost] = "erpappdev";
-            parameters[RfcConfigParameters.SystemNumber] = "03";
+            parameters[RfcConfigParameters.Name] = SAPFingerprint.Properties.Settings.Default.Name;
+            parameters[RfcConfigParameters.User] = txtUser.Text;
+            parameters[RfcConfigParameters.Password] = txtPass.Text;
+            parameters[RfcConfigParameters.Client] = SAPFingerprint.Properties.Settings.Default.Client;
+            parameters[RfcConfigParameters.Language] = SAPFingerprint.Properties.Settings.Default.Language;
+            parameters[RfcConfigParameters.AppServerHost] = SAPFingerprint.Properties.Settings.Default.AppServerHost;
+            parameters[RfcConfigParameters.SystemNumber] = SAPFingerprint.Properties.Settings.Default.SystemNumber;
+            parameters[RfcConfigParameters.SAPRouter] = SAPFingerprint.Properties.Settings.Default.SAPRouter;
+            parameters[RfcConfigParameters.SystemID] = SAPFingerprint.Properties.Settings.Default.SystemID;
 
             RfcDestination SapRfcDestination = RfcDestinationManager.GetDestination(parameters);
             RfcSessionManager.BeginContext(SapRfcDestination);
@@ -401,9 +405,10 @@ namespace Demo
             try
             {
 
-                function = SapRfcDestination.Repository.CreateFunction("ZFM_TABLE_FINGER");
-                function.SetValue("FINGERPRINT", fingerprint);
-                function.SetValue("MODE", "R");
+                function = SapRfcDestination.Repository.CreateFunction("ZFM_READ_WRITE_FINGERPRINT");
+                function.SetValue("IM_FINGERPRINT", fingerprint);
+                function.SetValue("IM_MODE", "R");
+                function.SetValue("IM_UNAME", txtUser.Text);
 
 
                 function.Invoke(SapRfcDestination);
@@ -418,9 +423,7 @@ namespace Demo
             SapRfcDestination = null;
         }
 
-
-
-
+    
     }
 }
 
