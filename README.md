@@ -12,6 +12,7 @@ Prerequisite :
 Login into your SAP.
 
 1.Create one Table ZTABLE_FINGER
+
 2.Create RFC ZFM_TABLE_FINGER
 
 
