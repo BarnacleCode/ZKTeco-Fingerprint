@@ -1,4 +1,4 @@
-# C-
+#
 This program aims to connect ZKTeco Fingerprint with SAP.
 
 Prerequisite :
@@ -13,15 +13,11 @@ Login into your SAP.
 
 1.Create one Table ZTABLE_FINGER
 
-IDNUMBER	INT1	INT1	3	0	Dummy for B20 int1 (Local Everywhere)
-
-FINGERPRINT		STRING	0	0	Fingerprint
-
-NAMA	NAME1	CHAR	30	0	Name
-
-CPUDT	CPUDT	DATS	8	0	Day On Which Accounting Document Was Entered
-
-CPUTM	CPUTM	TIMS	6	0	Time of Entry
+IDNUMBER	  Type  INT1	
+FINGERPRINT	Type  STRING
+NAMA	      Type  CHar 30
+CPUDT	      Type  DATS
+CPUTM	      Type  TIMS
 
 2.Create RFC ZFM_TABLE_FINGER
 
